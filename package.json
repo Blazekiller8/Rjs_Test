@@ -1,0 +1,22 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "another.js",
+  "scripts": {
+    "test": "node file.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blazekiller8/Rjs_Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blazekiller8/Rjs_Test/issues"
+  },
+  "homepage": "https://github.com/Blazekiller8/Rjs_Test#readme",
+  "dependencies": {
+    "minify": "^7.1.0"
+  }
+}
